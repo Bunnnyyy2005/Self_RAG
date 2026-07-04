@@ -17,8 +17,7 @@ class GraphState(TypedDict):
     generation: str
 
 # --- 2. INITIALIZE MODELS ---
-# PUT YOUR GROQ API KEY HERE (Get it free at console.groq.com)
-os.environ["GROQ_API_KEY"] = "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"
+
 
 # The LLM Engine (Fast & Smart)
 llm = ChatGroq(
