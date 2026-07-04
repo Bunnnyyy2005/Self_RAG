@@ -4,7 +4,7 @@ langgraph
 chromadb
 sentence-transformers
 langchain-community
-duckduckgo-search
+duckduckgo-search==5.3.1
 langchain-groq
 pysqlite3-binary
 torchvision
