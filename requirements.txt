@@ -7,3 +7,4 @@ langchain-community
 duckduckgo-search
 langchain-groq
 pysqlite3-binary
+torchvision
