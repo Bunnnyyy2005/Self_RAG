@@ -1,0 +1,9 @@
+streamlit
+langchain
+langgraph
+chromadb
+sentence-transformers
+langchain-community
+duckduckgo-search
+langchain-groq
+pysqlite3-binary
